@@ -1,9 +1,9 @@
 # javascript-skills
 
 
-JavaScript Code Quality:
+#JavaScript Code Quality:
 
-#Basic knowledge
+## Basic knowledge
 
 Ability to follow code style : https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
 
@@ -21,7 +21,7 @@ http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
 
 Variable naming : https://mathiasbynens.be/notes/javascript-identifiers
 
-# Using tools and standards
+## Using tools and standards
 
 Ability to find "smell" code and fix it : https://sourcemaking.com/refactoring/bad-smells-in-code
 
@@ -31,7 +31,7 @@ Clear understanding of the best practices such as DRY, KISS, YAGNI : http://www.
 
 Code must pass JSHint, JSLint : http://www.sitepoint.com/comparison-javascript-linting-tools/
 
-# Complex tasks
+## Complex tasks
 
 Ability to create a code style and follow it : https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
 
