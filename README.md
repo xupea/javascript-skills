@@ -114,3 +114,35 @@ http://eslint.org/docs/rules/
 Clear understanding of the architectural priciples to be able to write code that can be easily maintained : https://www.youtube.com/watch?v=huEEkx5P5Hs
 
 Knowledge of the refactoring technques : http://www.integralist.co.uk/posts/refactoring-techniques.html
+
+# Performance Analysis and Optimization
+
+## Basic knowledge
+
+Basic understanding how to improve code permormance in slow code, very simple level : 
+
+http://desalasworks.com/article/javascript-performance-techniques/
+https://developers.google.com/speed/articles/optimizing-javascript
+http://www.html5rocks.com/en/tutorials/speed/v8/
+
+Performance & Optimization / Basic knowledge : 
+
+https://www.youtube.com/results?search_query=vyacheslav+egorov
+
+Understanding how to measure performance of the particual peace of code :
+
+http://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html
+
+Understanding what performance of the code is and what optimization is : http://shop.oreilly.com/product/9780596802806.do
+
+Performance & Optimization / Basic knowledge
+
+ ## Ability to make common performance audit
+ 
+ Ability to analyse code base to find critical places : https://developer.chrome.com/devtools or https://developers.google.com/web/tools/chrome-devtools/
+ 
+ Ability to use different tools (Chrome toolbar etc.) to profile memory leaks, measure script execution time, network delays : https://developer.chrome.com/devtools/docs/javascript-memory-profiling
+ 
+ Deep understanding of optimizations related to data manipulations : https://www.youtube.com/watch?v=1S_sKdY9fQY
+ 
+ 
