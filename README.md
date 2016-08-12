@@ -137,12 +137,16 @@ Understanding what performance of the code is and what optimization is : http://
 
 Performance & Optimization / Basic knowledge
 
- ## Ability to make common performance audit
+## Ability to make common performance audit
  
- Ability to analyse code base to find critical places : https://developer.chrome.com/devtools or https://developers.google.com/web/tools/chrome-devtools/
+Ability to analyse code base to find critical places : https://developer.chrome.com/devtools or https://developers.google.com/web/tools/chrome-devtools/
  
- Ability to use different tools (Chrome toolbar etc.) to profile memory leaks, measure script execution time, network delays : https://developer.chrome.com/devtools/docs/javascript-memory-profiling
+Ability to use different tools (Chrome toolbar etc.) to profile memory leaks, measure script execution time, network delays : https://developer.chrome.com/devtools/docs/javascript-memory-profiling
  
- Deep understanding of optimizations related to data manipulations : https://www.youtube.com/watch?v=1S_sKdY9fQY
- 
- 
+Deep understanding of optimizations related to data manipulations : https://www.youtube.com/watch?v=1S_sKdY9fQY
+
+Knowledge how to reduce page load time by applying different techniques for the particular case. Such as: concatenations, lazy loading, choosing different approaches in the particual project related to server requests, amount of data for each request etc : http://blog.crazyegg.com/2013/12/11/speed-up-your-website/
+
+Understanding what repaint/reflow is, understanding of DOM and how to reduce repaint/reflows working with DOM : https://developers.google.com/speed/articles/reflow?hl=en
+
+
