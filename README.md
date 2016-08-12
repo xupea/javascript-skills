@@ -23,6 +23,12 @@ closure :
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 
+currying : 
+
+http://blog.carbonfive.com/2015/01/14/gettin-freaky-functional-wcurried-javascript/
+
+https://www.sitepoint.com/currying-in-functional-javascript/
+
 literal :
 
 http://www.tutorialspoint.com/javascript/javascript_function_literals.htm
@@ -38,6 +44,28 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
 prototypes : 
 
 http://www.w3schools.com/js/js_object_prototypes.asp
+
+## Objects
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+
+## Regular Expressions
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+
+## Classes
+
+Construtor : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor
+
+Identity : https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/instanceof
+
+Inheritance : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+
+Properties : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript#The_property_(object_attribute)
+
+## CommonJS
+
+http://www.commonjs.org/
 
 #JavaScript Code Quality:
 
