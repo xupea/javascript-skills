@@ -1,5 +1,43 @@
 # javascript-skills
 
+# JavaScript:
+
+## Functions
+
+__proto__ : http://dmitrysoshnikov.com/ecmascript/chapter-7-2-oop-ecmascript-implementation/#non-standard-code__proto__code-property
+
+apply or call :
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call
+
+bind : 
+
+https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Function/bind
+
+method chaining : 
+
+http://schier.co/blog/2013/11/14/method-chaining-in-javascript.html
+
+closure : 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
+literal :
+
+http://www.tutorialspoint.com/javascript/javascript_function_literals.htm
+
+module :
+
+https://toddmotto.com/mastering-the-module-pattern/
+
+new operator : 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new
+
+prototypes : 
+
+http://www.w3schools.com/js/js_object_prototypes.asp
 
 #JavaScript Code Quality:
 
