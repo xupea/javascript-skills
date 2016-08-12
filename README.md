@@ -30,3 +30,21 @@ Clear separation of methods, classes : https://en.wikipedia.org/wiki/Separation_
 Clear understanding of the best practices such as DRY, KISS, YAGNI : http://www.itexico.com/blog/bid/99765/Software-Development-KISS-YAGNI-DRY-3-Principles-to-simplify-your-life
 
 Code must pass JSHint, JSLint : http://www.sitepoint.com/comparison-javascript-linting-tools/
+
+# Complex tasks
+
+Ability to create a code style and follow it : https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
+
+Ability to setup code quality checkers such as: JSHint, JSLint with proper config : 
+
+http://jshint.com/docs/
+
+http://jshint.com/docs/options/
+
+http://eslint.org/docs/user-guide/configuring
+
+http://eslint.org/docs/rules/
+
+Clear understanding of the architectural priciples to be able to write code that can be easily maintained : https://www.youtube.com/watch?v=huEEkx5P5Hs
+
+Knowledge of the refactoring technques : http://www.integralist.co.uk/posts/refactoring-techniques.html
